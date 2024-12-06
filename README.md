@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sajjad Maralani and I'm a Computer Engineering student, from Tehran.</p>
+<p align="left">My name is Sajjad Maralani and I'm a Computer Engineering student.</p>
 
 ###
 
